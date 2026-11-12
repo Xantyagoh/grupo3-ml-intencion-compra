@@ -1,0 +1,30 @@
+{
+  "mejor_modelo": "Random Forest",
+  "umbral": 0.6730938215792067,
+  "params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "class_weight": "balanced_subsample",
+    "criterion": "gini",
+    "max_depth": 8,
+    "max_features": 0.5,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 12,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 300,
+    "n_jobs": -1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "umbrales": {
+    "Regresion logistica": 0.6080873085889602,
+    "Random Forest": 0.6730938215792067,
+    "Gradient Boosting": 0.7031871442515809
+  }
+}
