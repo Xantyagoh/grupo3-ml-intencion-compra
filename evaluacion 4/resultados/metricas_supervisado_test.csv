@@ -1,0 +1,4 @@
+modelo,umbral,precision,recall,f1,roc_auc,pr_auc,VP,FP,FN,VN
+Regresion logistica,0.6081,0.6021,0.7644,0.6736,0.9256,0.6784,292,193,90,1866
+Random Forest,0.6731,0.6526,0.7277,0.6881,0.9357,0.7509,278,148,104,1911
+Gradient Boosting,0.7032,0.643,0.7356,0.6862,0.9345,0.754,281,156,101,1903
