@@ -138,7 +138,7 @@ Los segmentos descubiertos **sin etiquetas** ordenan a los visitantes igual que 
 
 ## Video de presentación
 
-_(se agrega el enlace al final del proyecto)_
+Enlace al video: https://youtu.be/gupoVuuAxYQ
 
 ## Referencias
 
